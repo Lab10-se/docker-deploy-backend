@@ -1,4 +1,4 @@
-name: docker-compose-prod
+name: Deploy backend to host prod
 'on':
   push:
     branches:
