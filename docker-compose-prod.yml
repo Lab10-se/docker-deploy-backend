@@ -1,0 +1,8 @@
+version: '3.3'
+services:
+ backend:
+   image: yasinthon04/234-deploylab-backend:latest
+   ports:
+     - "9998:8080"
+
+
